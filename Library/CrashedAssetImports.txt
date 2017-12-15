@@ -1,1 +1,0 @@
-Assets/ootii/_Demos/Shared/Meshes/YBot/Y_Bot.fbx

@@ -83,10 +83,14 @@
      <Compile Include="Assets\ootii\MotionController\Code\Actors\AnimationControllers\MotionController\Editor\MotionControllerEditor.cs" />
      <Compile Include="Assets\ootii\MotionController\Code\Actors\AnimationControllers\MotionController\Editor\MotionControllerEditorSymbol.cs" />
      <Compile Include="Assets\ootii\MotionController\Code\Input\Editor\NavMeshInputSourceEditor.cs" />
+     <None Include="Assets\ootii\MotionController\Version.txt" />
      <None Include="Assets\ootii\Framework_v1\Content\Resources\Shaders\TransparencyBlit.shader" />
      <None Include="Assets\ootii\Framework_v1\Content\Resources\Shaders\ClearBlit.shader" />
      <None Include="Assets\ootii\Framework_v1\Content\Resources\Shaders\RadialBlit.shader" />
+     <None Include="Assets\ootii\MC2_ReadMe.txt" />
+     <None Include="Assets\ootii\AC_ReadMe.txt" />
      <None Include="Assets\ootii\Framework_v1\Content\Shaders\OutlineDiffuseHidden.shader" />
+     <None Include="Assets\ootii\ActorController\Version.txt" />
      <None Include="Assets\ootii\Framework_v1\Content\Resources\Shaders\GraphicsManagerUI.shader" />
      <None Include="Assets\ootii\Framework_v1\Content\Shaders\OutlineDiffuse.shader" />
  <Reference Include="UnityEngine.UI">
